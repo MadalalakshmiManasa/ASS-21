@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    background-color: rgb(190, 227, 225);
+    box-shadow: black;
+} 
+
+
+table{
+    text-align: center;
+    
+}
+h2{
+    background-color: lightpink;
+}
+p{
+    background-color:lightgreen;  
+    
+}
+th{
+    background-color: rgb(255, 0, 153);
+}
+#td1{
+    background-color: aqua;
+
+}
+#td2{
+    background-color: chocolate;
+}
+#td3{
+    background-color: cornflowerblue;
+}
+#td4{
+    background-color: darkkhaki;
+}
+#td5{
+    background-color:lightcoral;
+}
